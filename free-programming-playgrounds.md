@@ -1,19 +1,38 @@
 ### Index
 
 * [Angular](#angular)
+* [ClojureScript](#clojurescript)
+* [Crystal](#crystal)
 * [CSS](#css)
 * [FlexBox](#flexbox)
+* [Go](#go)
+* [Haskell](#haskell)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
+* [.Net](#dotnet)
 * [Node.js](#nodejs)
+* [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+* [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [SQL](#sql)
 
 
 ### Angular
 
 * [Plunker](http://plnkr.co)
+
+
+### ClojureScript
+
+* [Web REPL](http://clojurescript.net)
+
+
+### Crystal
+
+* [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
 
 
 ### CSS
@@ -29,18 +48,45 @@
 * [Echoplex](http://the-echoplex.net/flexyboxes/)
 
 
+### Go
+
+* [Go Playground](https://play.golang.org)
+
+
+### Haskell
+
+* [Try Haskell](https://www.tryhaskell.org)
+
+
 ### JavaScript
 
 * [CodePen](http://codepen.io)
+* [CodeSandbox.io](https://codesandbox.io) (_React_)
+* [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
 * [Sololearn](https://code.sololearn.com/#html)
+* [WebpackBin](https://www.webpackbin.com)
+
+
+### Kotlin
+
+* [Kotlin](https://try.kotlinlang.org)
+
+
+### <a name="dotnet"></a>.NET
+
+* [.NET Fiddle](https://dotnetfiddle.net)
 
 
 ### NodeJS
 
 * [Ideone](http://ideone.com)
-* [Runnable](http://code.runnable.com)
+
+
+### Perl
+
+* [Perl](http://tryperl.pl)
 
 
 ### PHP
@@ -53,12 +99,17 @@
 ### Python
 
 * [Codepad](http://codepad.org)
+* [Pyfiddle](https://pyfiddle.io)
+
+
+### R
+
+* [R-Fiddle](http://www.r-fiddle.org)
 
 
 ### Ruby
 
 * [Codepad](http://codepad.org)
-* [Runnable](http://code.runnable.com)
 
 
 ### Rust
@@ -75,5 +126,5 @@
 
 * [ScalaFiddle.io](https://scalafiddle.io)
 * [ScalaFiddle.net](http://scalafiddle.net)
-
+* [Scastie](https://scastie.scala-lang.org)
 

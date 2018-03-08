@@ -33,6 +33,7 @@
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Sage](#sage)
@@ -116,6 +117,7 @@
 * [C++ moderne](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c) - Guillaume Belz
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
+* [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - Informaticienzero, Taure, Paraze et Lucas-84
 
 
 ### Coq
@@ -160,9 +162,14 @@
 
 #### LaTeX
 
-* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths3.pdf) - Arnaud Gazagnes (PDF)
+* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
+
+
+##### KOMA-Script
+
+* [KOMA-Script, Typographie universelle avec XƎLaTeX](https://framabook.org/koma-script/) - Raymond Rochedieu (trad.) et Markus Kohm
 
 
 #### Asymptote
@@ -227,6 +234,11 @@
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
+
+
+#### Django
+
+* [Tutoriel de Django Girls](https://tutorial.djangogirls.org/fr/) (1.11) (HTML)
 
 
 ### R
